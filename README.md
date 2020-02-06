@@ -16,9 +16,9 @@ This code is writen for a total of 20 buttons.  16 of them in a 4x4 matrix that 
 The other 4 have their own imputs and can be used for more important actions that might need faster response times 
 Acts as a keyboard in the operating system.
  
-This sketch is for the Leonardo or Pro Mini boards. 
+This sketch is for the Leonardo or Pro Micro boards. 
 
-On the Pro Mini boards:
+On the Pro Micro boards:
 Matrix Rows will be on Pins 5, 4, 3 & 2.
 Matrix Columns will be on Pins 9, 8, 7 & 6 
 Both on the Power LED side of the board.
